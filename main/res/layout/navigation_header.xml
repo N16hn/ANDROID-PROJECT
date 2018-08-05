@@ -5,9 +5,9 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_width="305dp"
+        android:layout_height="211dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
         android:background="@mipmap/odbg" />
 </RelativeLayout>
